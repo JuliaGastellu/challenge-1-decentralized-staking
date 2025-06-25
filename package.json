@@ -47,7 +47,7 @@
     "verify": "yarn hardhat:verify"
   },
   "devDependencies": {
-    "husky": "~8.0.3",
+    "husky": "^8.0.0",
     "lint-staged": "~13.2.2"
   },
   "packageManager": "yarn@3.2.3",
